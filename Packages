@@ -1,7 +1,9 @@
 Package: ai.akemi.appsyncunified
 Name: AppSync Unified
-Version: 1.0
+Version: 116.0
 Architecture: iphoneos-arm
 Description: Allows installation of fakesigned IPA packages.
 Filename: debs/appsync.deb
 Size: 49472
+MD5sum: d6a31911e878b83e47c6525fa29ecef1
+SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
